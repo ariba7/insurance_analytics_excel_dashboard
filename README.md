@@ -23,5 +23,7 @@ Average premium is falling by about 1.9% a year
 Policy endings peak in 2025
 
 Tools: Microsoft Excel (Tables, Pivot Tables, Data Model, Slicers, formulas)
+<img width="1832" height="668" alt="Screenshot 2026-11-07 145027" src="https://github.com/user-attachments/assets/27e6008a-70db-41d4-9854-8bb17b1cbd59" />
+
 
 Files: Policy Data.xlsx (data and dashboard)
